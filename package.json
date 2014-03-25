@@ -18,7 +18,7 @@
   "license": "BSD",
   "dependencies": {
     "through": "~2.3.4",
-    "falafel": "~0.3.1",
+    "falafel": "git://github.com/mrdanimal/node-falafel.git#a0ca92f8fb3a67f68726ef8e5ae4bce2e12d2791",
     "bower": "~1.2.6"
   },
   "devDependencies": {
